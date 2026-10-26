@@ -1,12 +1,10 @@
 # Work
 
-## 사업을 이해하고,<br>고객의 문제를 해결합니다.
+## {{헤드라인}}
 
 **Product Engineer · Business & IT**
 
-고객을 만나 문제를 찾고, 사업 모델과 기능을 제안합니다. 기획·설계·개발·배포·운영까지 직접 이어가며, 필요한 기술은 스스로 익힙니다.
-
-보안·금융 IT와 직접 사업을 운영한 경험을 바탕으로 업무 흐름·비용·운영까지 함께 판단합니다. AI를 개발에 활용하고 기술적 판단과 결과 검증을 직접 책임집니다.
+{{업무 정의}}
 
 [LinkedIn](https://www.linkedin.com/in/moonyoungsik95) · [이메일](mailto:moonyoungsik95@gmail.com)
 
