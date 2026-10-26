@@ -12,8 +12,8 @@
 
 | 영역 | 기술 |
 | --- | --- |
-| Backend | Python, FastAPI, Java, Spring Boot, SQLAlchemy, Alembic |
-| Frontend | React, TypeScript, TanStack Query, Zustand |
+| Backend | Python, FastAPI, Java, Spring Boot |
+| Frontend | Vue, Nuxt, TypeScript |
 | Data & Messaging | PostgreSQL, MS SQL Server, Valkey / Redis, MQTT, InfluxDB |
 | Infrastructure | Linux, AWS, Oracle Cloud Infrastructure, Docker, GitHub Actions |
 | Desktop & Automation | PySide6, tkinter, Selenium, n8n |
